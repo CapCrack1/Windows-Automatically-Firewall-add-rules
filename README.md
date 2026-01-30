@@ -1,4 +1,4 @@
-# Windows-Firewall-add-rules. 
+# Windows-Automatically-Firewall-Add-Rules. 
 Add file root programm.\
 Open ***.bat\
 Check status\
